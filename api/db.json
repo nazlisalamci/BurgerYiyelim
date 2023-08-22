@@ -1,0 +1,14 @@
+
+{
+  "burgers": [
+    { "name": "Efso Burger", "image": "/src/assets/burger.jpg" , "content":"150 gr kasap Burger,Patates ,Turşu" , "price":"250 TL"},
+    { "name": "Efso Burger", "image": "/src/assets/burger.jpg" , "content":"150 gr kasap Burger,Patates ,Turşu" , "price":"250 TL"},
+    { "name": "Efso Burger", "image": "/src/assets/burger.jpg" , "content":"150 gr kasap Burger,Patates ,Turşu" , "price":"250 TL"},
+    { "name": "Efso Burger", "image": "/src/assets/burger.jpg" , "content":"150 gr kasap Burger,Patates ,Turşu" , "price":"250 TL"},
+    { "name": "Efso Burger", "image": "/src/assets/burger.jpg" , "content":"150 gr kasap Burger,Patates ,Turşu" , "price":"250 TL"},
+    { "name": "Efso Burger", "image": "/src/assets/burger.jpg" , "content":"150 gr kasap Burger,Patates ,Turşu" , "price":"250 TL"},
+    { "name": "Efso Burger", "image": "/src/assets/burger.jpg" , "content":"150 gr kasap Burger,Patates ,Turşu" , "price":"250 TL"},
+    { "name": "Efso Burger", "image": "/src/assets/burger.jpg" , "content":"150 gr kasap Burger,Patates ,Turşu" , "price":"250 TL"},
+    { "name": "Efso Burger", "image": "/src/assets/burger.jpg" , "content":"150 gr kasap Burger,Patates ,Turşu" , "price":"250 TL"}
+  ]
+}
